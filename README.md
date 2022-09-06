@@ -12,7 +12,7 @@ Download the script:
     wget https://raw.githubusercontent.com/sawatkins/lit2go-dl/master/lit2go-dl.py
 
 ## Usage
-Find and copy a link to an audiobook from [this](https://etc.usf.edu/lit2go/books/) page. Example: `https://etc.usf.edu/lit2go/21/the-adventures-of-huckleberry-finn/` Then, run the script:
+Find and copy a link to an audiobook from [this](https://etc.usf.edu/lit2go/books/) page. Example: `https://etc.usf.edu/lit2go/21/the-adventures-of-huckleberry-finn/`. Then, run the script:
 
     python3 lit2go-dl.py
 

@@ -39,7 +39,7 @@ for link in soup.find_all('a'):
         #print("actual_link:", actual_link)
         mp3_link = get_mp3_link(actual_link)
         #print("mp3_link:", mp3_link)
-        filename = actual_link.strip('/').split('/')[-1j] + ".mp3"
+        filename = actual_link.strip('/').split('/')[-1] + ".mp3"
         download_mp3(mp3_link, filename)
 
 
