@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+"""Script to download audiobooks from lit2go 
+   Author: sawatkins
+   Last Modified: 2022-09-05
+"""
+
 import requests
 import os
 from bs4 import BeautifulSoup
