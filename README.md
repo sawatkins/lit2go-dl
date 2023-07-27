@@ -7,9 +7,9 @@ lit2go-dl is a python script to download audiobooks from [lit2go's](https://etc.
 Author and chapter information should show up in media players, since the audio files are tagged.
 
 ## Prerequisites
-The python package `Beautiful Soup` is required from `bs4`. To install, run:
+Install requirements:
 
-    pip3 install bs4
+    pip3 install -r requirements.txt
     
 ## Installation
 Download the script:
