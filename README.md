@@ -9,7 +9,7 @@ Author and chapter information should show up in media players, since the audio 
 ## Prerequisites
 Install requirements:
 
-    pip3 install -r requirements.txt
+    pip3 install beautifulsoup4 requests
     
 ## Installation
 Download the script:
